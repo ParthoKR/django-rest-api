@@ -1,1 +1,1 @@
-This repository contains source code for django rest api.
+This repository contains source code for Profile API By DRF
