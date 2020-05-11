@@ -1,5 +1,5 @@
 from django.urls import path
-from basic_rest_api import views
+from . import views
 urlpatterns = [
-    path('', views.index)
+    path('home', views.index)
 ]
